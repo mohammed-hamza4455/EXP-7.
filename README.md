@@ -40,6 +40,8 @@ To implement a basic line detection pipeline using OpenCV by detecting straight 
 ### Step 1: Import Libraries
 
 ```python
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
